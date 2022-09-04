@@ -9,3 +9,6 @@ console.log('A letra c é:', letraC);
 
 const letraD = !(20 > 50 || 50 > 60);
 console.log('A letra d é:', letraD);
+
+const arroz = 'arroz'
+
